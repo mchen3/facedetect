@@ -8,7 +8,7 @@ import './App.css';
 import FaceRecognition from './components/facerecognition/FaceRecognition';
 import Signin from './components/signin/Signin';
 import Register from './components/register/Register';
-
+//
 // const particlesOptions = {
 //   particles: {
 //     number: {
@@ -21,6 +21,7 @@ import Register from './components/register/Register';
 //   }
 // }
 //
+// test
 const initialState =  {
   input: '',
   imageUrl: '',
